@@ -1,3 +1,3 @@
 Baris 1 : Pembuka
-Baris 2 : Isi awal
+Baris 2 : Baris 2 : Di ubah pada branch utama
 Baris 3 : Penutup
