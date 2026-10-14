@@ -1,3 +1,5 @@
 Baris 1 : Pembuka
-Baris 2 : Baris 2 : Di ubah pada branch utama
+<<<<<<< HEAD
+Baris 2 : Baris 2 : Di ubah pada branch Utama dan revisi-judul
+=======
 Baris 3 : Penutup
