@@ -1,2 +1,4 @@
-Nama : Steffanus Doksa'nNim : 71261279'nProdi : Informatika
-Prak tekkom
+Nama : Steffanus Doksa
+Nim : 71261279
+Prodi : Informatika
+Hobi : Tidur
